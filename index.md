@@ -2,7 +2,9 @@
 **Michelle Wan (she/her)**
 
 UKRI Centre for Doctoral Training in the Applications of AI to the study of Environmental Risks (AI4ER CDT)
+
 Centre for Atmospheric Science (CAS), Yusuf Hamied Department of Chemistry
+
 University of Cambridge
 
 ## Academic background
