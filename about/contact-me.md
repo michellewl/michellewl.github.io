@@ -1,3 +1,5 @@
+[Return to homepage](https://michellewl.github.io)
+
 ### Email
 <a href="mailto:mwlw3@cam.ac.uk">mwlw3@cam.ac.uk</a>
 
@@ -6,5 +8,3 @@
 
 ### Twitter
 [@MichelleWLWan](https://twitter.com/MichelleWLWan)
-
-[Return to homepage](https://michellewl.github.io)
