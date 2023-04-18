@@ -7,7 +7,7 @@ My work pulls elements from multiple STEM disciplines across Atmospheric Chemist
 Click the image to expand
 <p>
 <a href="https://michellewl.github.io/images/PhD-schematic.png">
-<img border="0" alt="PhD schematic" src="/images/PhD-schematic.png" width="1000">
+<img border="0" alt="PhD schematic" src="/images/PhD_schematic_professional_v3_Regional.png" width="1000">
 </a>
 </p>
 
