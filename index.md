@@ -1,5 +1,3 @@
-Preferred pronouns: she/her
-
 [Contact details](https://michellewl.github.io/about/contact-me.html)
 
 # PhD research
@@ -14,6 +12,5 @@ The Alan Turing Institute CDT Conference, November 2022
 </p>
 
 # Academic background
-I completed my BA and MSci in Natural Sciences (Biological) at the University of Cambridge, specialising in Chemistry and Atmospheric Chemistry 
-for m$
+I completed my BA and MSci in Natural Sciences (Biological) at the University of Cambridge, specialising in Chemistry and Atmospheric Chemistry for my final year. During my MRes with the [AI4ER CDT](https://ai4er-cdt.esc.cam.ac.uk), I studied the association between NO<sub>2</sub> air pollution exposure and human breast cancer incidence in London, using LSTM networks. Now hosted at the [Centre for Atmospheric Science](https://www.ch.cam.ac.uk/person/mwlw3), I'm in the third year of my PhD project which explores machine learning applications in the study of air pollution and human health.
 
